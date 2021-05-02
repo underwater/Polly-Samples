@@ -11,6 +11,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PollyTestClientWpf", "Polly
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PollyTestWebApi", "PollyTestWebApi\PollyTestWebApi.csproj", "{ACA3DD92-9D4E-4BDF-ACFE-79822882103E}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyPollyExample", "MyPollyExample\MyPollyExample.csproj", "{23EFA8FC-DC12-4148-BCEF-D33B47DA8B1C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{ACA3DD92-9D4E-4BDF-ACFE-79822882103E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ACA3DD92-9D4E-4BDF-ACFE-79822882103E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ACA3DD92-9D4E-4BDF-ACFE-79822882103E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{23EFA8FC-DC12-4148-BCEF-D33B47DA8B1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23EFA8FC-DC12-4148-BCEF-D33B47DA8B1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23EFA8FC-DC12-4148-BCEF-D33B47DA8B1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23EFA8FC-DC12-4148-BCEF-D33B47DA8B1C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
